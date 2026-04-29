@@ -54,6 +54,4 @@ This project simulates a battlefield grid and finds the best region with maximum
 
 ---
 
-## Compilation and Execution
-
 
