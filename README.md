@@ -56,6 +56,4 @@ This project simulates a battlefield grid and finds the best region with maximum
 
 ## Compilation and Execution
 
-```bash
-gcc program.c -o battlefield
-./battlefield
+
