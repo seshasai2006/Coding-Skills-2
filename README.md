@@ -51,7 +51,6 @@ This project simulates a battlefield grid and finds the best region with maximum
 5. Extracts items from that region
 6. Applies 0/1 Knapsack with capacity = 120
 7. Displays selected items and maximum loot value
-
 ---
 
 
